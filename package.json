@@ -2,10 +2,15 @@
     "name": "repo-git",
     "version": "1.0.0",
     "description": "Backend project about recycle in Colombia",
-    "main": "index.js",
+    "main": "node ./src/bin/run.js",
     "scripts": {
+        "dev": "node src/bin/run.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Reciclamos con color",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4"
+    }
 }
