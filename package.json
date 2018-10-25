@@ -1,11 +1,11 @@
 {
-  "name": "repo-git",
-  "version": "1.0.0",
-  "description": "Backend de proyecto orientado a educar sobre reciclaje en Colombia ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Reciclamos con color",
-  "license": "ISC"
+    "name": "repo-git",
+    "version": "1.0.0",
+    "description": "Backend project about recycle in Colombia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Reciclamos con color",
+    "license": "ISC"
 }
